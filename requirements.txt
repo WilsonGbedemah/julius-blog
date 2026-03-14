@@ -1,15 +1,3 @@
-# Environment requirements for this project
-# This is a React/Vite application, so frontend dependencies are installed from package.json.
-
-Node.js >= 18.18.0
-npm >= 9.0.0
-
-# Optional tools
-GNU Make >= 4.0
-Netlify CLI >= 17.0.0
-Python >= 3.11
-uv >= 0.5.0
-
-# Note
-# uv is optional and should only be used for standalone Python helper scripts.
-# The React app itself still uses npm for install, dev, build, and preview.
+# This project has no Python runtime dependencies.
+# Keep this file to satisfy platforms that auto-detect requirements.txt.
+# Only pip-installable package specifiers may appear here.
