@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Character and Competence">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a140f" />
+      <stop offset="100%" stop-color="#5a2f18" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)" />
+  <rect x="52" y="52" width="1096" height="571" rx="24" fill="none" stroke="#e8c27a" stroke-opacity="0.45" />
+  <text x="90" y="200" fill="#f7efe3" font-size="26" font-family="Georgia, serif" letter-spacing="2">JULIUS DORNYO</text>
+  <text x="90" y="300" fill="#ffffff" font-size="62" font-weight="700" font-family="Georgia, serif">Character &amp; Competence</text>
+  <text x="90" y="360" fill="#f6d39b" font-size="34" font-family="Georgia, serif">Leadership Reflections for Nation Building</text>
+  <text x="90" y="560" fill="#e7d8c3" font-size="24" font-family="Georgia, serif">Published May 26, 2017</text>
+</svg>
